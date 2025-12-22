@@ -54,7 +54,16 @@ This page benchmarks company revenue against indexed industry demand to distingu
 
 Analysis:
 
-asdads
+- *Company revenue growth outpaced flat industry demand, indicating execution-led performance rather than macro tailwinds.*
+  - This increases confidence in the sustainability of performance, as it is less dependent on favourable macro conditions.
+- *Outperformance reflects market share gains and pricing discipline, not cyclical uplift.*
+  - When company growth exceeds industry demand, the implied drivers are share capture, pricing execution, or mix optimisation. In a live FP&A setting, this would warrant closer monitoring of competitive positioning and pricing effectiveness rather than reliance on market growth assumptions.
+- *Quarterly YoY trends show consistent seasonality, with Q2 and Q4 structurally outperforming while Q1 remains weaker.*
+  - The recurrence of this pattern across periods suggests seasonality is embedded in the business model rather than driven by one-off events. As a result, quarter-on-quarter comparisons are more informative than full-year averages when assessing performance.
+- *Growth timing appears predictable rather than one-off and should be explicitly reflected in forecasts.*
+  - Predictable seasonality reduces forecast uncertainty and argues against smoothing growth assumptions across the year. Instead, forecasts should preserve intra-year volatility to avoid overstating performance in structurally weaker periods.
+- *Execution-led outperformance suggests scope for selective price increases without material volume risk.*
+  - Sustained growth in excess of market demand implies that pricing actions have not significantly constrained volume to date. While this does not justify aggressive repricing, it supports cautious, targeted pricing initiatives subject to elasticity monitoring.
 
 ### Page 3 - Revenue Conversion
 

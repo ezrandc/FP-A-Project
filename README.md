@@ -77,7 +77,14 @@ This page analyses how revenue translates into gross profit, isolating pricing e
 
 Analysis:
 
-asdasd
+- *Gross margin has remained broadly stable and close to plan, indicating that pricing assumptions were directionally correct.*
+  - Margin stability suggests that pricing actions were sufficient to offset cost pressures, at least in aggregate. This reduces the likelihood that margin performance is being distorted by mix shifts or short-term volatility, and supports confidence in the underlying pricing framework.
+- *Gross profit outperformance (+5.7% vs budget) is driven mainly by price uplift, partially offset by cost inflation, rather than mix changes.*
+  - A price-led variance with limited mix impact implies that upside was achieved through execution rather than favourable product or customer mix. This distinction matters because price-driven gains are generally more controllable than mix-driven effects, but also require validation of sustainability.
+- *Indexed COGS has increased faster than inflation benchmarks, suggesting that cost pressure is not purely macro-driven and may reflect internal or supplier-specific dynamics.*
+  - Cost growth exceeding inflation indicates that margin pressure is unlikely to resolve without intervention. In a live environment, this would prompt further analysis at the supplier or category level to distinguish renegotiation opportunities from structural cost increases.
+- *With margins protected through pricing and limited volume sensitivity observed, incremental cost savings would flow directly to profitability.*
+  - The ability to absorb cost inflation without material volume loss suggests potential pricing inelasticity, indicating meaningful operating leverage on the cost base. If costs were reduced, a disproportionate share of the savings would translate into incremental profit. This hypothesis however, would require further validation through elasticity and customer-level analysis.
 
 ### Page 4 - Profitability
 

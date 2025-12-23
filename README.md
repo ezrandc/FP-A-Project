@@ -128,3 +128,4 @@ Analysis:
 - *Forecast scenarios balance recent performance, long-term trends, and seasonality rather than relying on a single growth anchor.*
   - Using multiple scenarios acknowledges uncertainty and avoids overconfidence in any single outcome. Seasonal indices are applied consistently across all scenarios to preserve observed timing effects, ensuring that forecast volatility reflects business reality rather than artificial smoothing.
 
+In a live FP&A environment, this dashboard would be used to support monthly performance reviews, reforecasting discussions, cost structure reviews, and pricing conversations with commercial teams.

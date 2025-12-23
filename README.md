@@ -47,7 +47,7 @@ Analysis:
 **Business Questions: Is growth driven by internal execution or external market conditions?**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/FP-A-Project/e33ed2ba5df190eb81aeba0d76e2b467b0346e1e/Dashboard/Pages/Page%202%20-%20Performance%20vs%20Market.png"
+  src="https://raw.githubusercontent.com/ezrandc/FP-A-Project/b503f73d0ff084b4da38069212471d5779143169/Dashboard/Pages/Page%202%20-%20Performance%20vs%20Market.png"
   width="900">
 
 This page benchmarks company revenue against indexed industry demand to distinguish execution-led performance from macro effects, and analyses quarterly growth patterns.
@@ -70,47 +70,61 @@ Analysis:
 **Business Question: Is revenue converting into profit in line with assumptions, and where is margin pressure coming from?**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/FP-A-Project/e33ed2ba5df190eb81aeba0d76e2b467b0346e1e/Dashboard/Pages/Page%203%20-%20Converting%20Revenue.png"
+  src="https://raw.githubusercontent.com/ezrandc/FP-A-Project/b503f73d0ff084b4da38069212471d5779143169/Dashboard/Pages/Page%203%20-%20Converting%20Revenue.png"
   width="900">
 
 This page analyses how revenue translates into gross profit, isolating pricing effects, cost inflation, and mix dynamics.
 
 Analysis:
 
-- *Gross margin has remained broadly stable and close to plan, indicating that pricing assumptions were directionally correct.*
-  - Margin stability suggests that pricing actions were sufficient to offset cost pressures, at least in aggregate. This reduces the likelihood that margin performance is being distorted by mix shifts or short-term volatility, and supports confidence in the underlying pricing framework.
+- *Gross margin has remained broadly stable and close to plan, indicating that pricing assumptions were directionally correct to account for the cost inflation.*
+  - Margins holding close to plan shows that pricing actions were sufficient to absorb cost pressure at an aggregate level. This reduces the likelihood that margin performance is being driven by favourable mix or short-term volatility.
 - *Gross profit outperformance (+5.7% vs budget) is driven mainly by price uplift, partially offset by cost inflation, rather than mix changes.*
-  - A price-led variance with limited mix impact implies that upside was achieved through execution rather than favourable product or customer mix. This distinction matters because price-driven gains are generally more controllable than mix-driven effects, but also require validation of sustainability.
+  - A price-led variance implies that performance is coming from execution rather than changes in product or customer mix. This is generally more controllable, but also means upside should not be assumed to repeat without deliberate action.
 - *Indexed COGS has increased faster than inflation benchmarks, suggesting that cost pressure is not purely macro-driven and may reflect internal or supplier-specific dynamics.*
-  - Cost growth exceeding inflation indicates that margin pressure is unlikely to resolve without intervention. In a live environment, this would prompt further analysis at the supplier or category level to distinguish renegotiation opportunities from structural cost increases.
-- *With margins protected through pricing and limited volume sensitivity observed, incremental cost savings would flow directly to profitability.*
-  - The ability to absorb cost inflation without material volume loss suggests potential pricing inelasticity, indicating meaningful operating leverage on the cost base. If costs were reduced, a disproportionate share of the savings would translate into incremental profit. This hypothesis however, would require further validation through elasticity and customer-level analysis.
+  - Cost growth exceeding inflation indicates that margin pressure is unlikely to self-correct. Without intervention, this cost base is likely to persist. In a live environment, this would prompt further supplier- or category-level analysis to distinguish renegotiation opportunities from structural cost increases.
+- *With margins protected through pricing and with limited volume sensitivity observed, incremental cost savings would flow directly to profitability.*
+  - The ability to absorb cost inflation without material volume loss suggests potential pricing inelasticity and meaningful operating leverage on the cost base. If costs were reduced, most of the savings would flow directly to EBITDA, as pricing has held without materially impacting volume. This hypothesis would require further validation through elasticity and customer-level analysis.
 
 ### Page 4 - Profitability
 
 **Business Question: Where does actual profitability diverge most from plan, and is it controllable?**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/FP-A-Project/e33ed2ba5df190eb81aeba0d76e2b467b0346e1e/Dashboard/Pages/Page%204%20-%20Profitability.png"
+  src="https://raw.githubusercontent.com/ezrandc/FP-A-Project/b503f73d0ff084b4da38069212471d5779143169/Dashboard/Pages/Page%204%20-%20Profitability.png"
   width="900">
 
 This page bridges gross profit to EBITDA, highlighting operating expense behaviour and cost sensitivity.
 
 Analysis:
 
-asdasd
+- *Operating expenses exceeded planned levels across departments, with payroll representing the largest absolute variance.*
+  - The dispersion of variances across functions suggests broad-based cost pressure rather than a single one-off issue, but payroll stands out as the dominant driver of underperformance.
+- *Payroll accounts for over 50% of gross profit, making EBITDA highly sensitive to headcount and compensation assumptions.*
+  - Given its scale, small deviations in payroll assumptions have an outsized impact on EBITDA. This makes payroll a structural lever rather than a timing issue.
+- *While individual expense variances are moderate, their cumulative effect materially constrains EBITDA relative to plan.*
+  - Taken together, these variances explain most of the EBITDA gap. If operating costs were reduced or better controlled, the majority of the improvement would flow directly to EBITDA without relying on further revenue growth.
 
 ### Page 5 - Revenue Analysis & Forecast
 
 **Business Question: What does historical performance imply about forecast reliability, and how should assumptions evolve?**
 
 <img
-  src="https://raw.githubusercontent.com/ezrandc/FP-A-Project/e33ed2ba5df190eb81aeba0d76e2b467b0346e1e/Dashboard/Pages/Page%205%20-%20Revenue%20Analysis%20%26%20Forecast.png"
+  src="https://raw.githubusercontent.com/ezrandc/FP-A-Project/b503f73d0ff084b4da38069212471d5779143169/Dashboard/Pages/Page%205%20-%20Revenue%20Analysis%20%26%20Forecast.png"
   width="900">
 
 This page analyses historical growth patterns and translates them into scenario-based forecast assumptions.
 
 Analysis:
 
-sdfdsf
+- *Revenue growth rebounded in 2024 (+3.53% YoY) following a flat 2023 (-0.04%), suggesting 2023 was transitional rather than indicative of the long-term trajectory.*
+  - The contrast between 2023 and 2024 highlights the risk of anchoring forecasts to a single weak year. While the rebound supports a more positive outlook, the prior volatility argues against assuming a step-change without additional confirmation.
+- *Clear seasonal peaks are observed in Q2 and Q4, with structurally weaker performance in Q1.*
+  - The consistency of this pattern across years indicates embedded seasonality rather than one-off timing effects. As a result, full-year growth rates alone are insufficient for planning, and intra-year distribution must be explicitly reflected in forecasts.
+- *Historical growth has been primarily volume-driven, while price movements remain volatile and less predictable.*
+  - Although volume and price were analysed separately to understand historical drivers, the forecast is built on aggregate revenue growth rather than a volume–price split. Given the volatility and lack of a clear pricing trend, modelling at the total revenue level provides a more stable and practical basis for forward-looking assumptions.
+- *Recent momentum (last four quarters averaging ~3.2% YoY) exceeds the long-term CAGR (1.73%).*
+  - While recent performance suggests an improving trajectory, historical variability indicates that short-term momentum should not be extrapolated mechanically. This reinforces the need to balance recency with longer-term averages when forming baseline assumptions.
+- *Forecast scenarios balance recent performance, long-term trends, and seasonality rather than relying on a single growth anchor.*
+  - Using multiple scenarios acknowledges uncertainty and avoids overconfidence in any single outcome. Seasonal indices are applied consistently across all scenarios to preserve observed timing effects, ensuring that forecast volatility reflects business reality rather than artificial smoothing.
 
